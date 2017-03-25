@@ -1,0 +1,13 @@
+// Course Schedule 
+// Format:: CourseName:Credit:StartDay:StartHour:Hour 
+
+Room514:Tue:1:Park:Test
+//
+Room514:Wed:2:Kim:
+Room514:Wed:3:Kim:
+//
+Room514:Thr:7: Java
+//
+Room515:Sat:2:Kim: New Room
+Room515:Fri:2:Lee:
+Room515:Sat:1:Kim:
